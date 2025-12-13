@@ -1,8 +1,8 @@
 <!-- 顶部横幅（可选：换成你自己的图） -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20I'm%20YOUR_USERNAME&fontAlign=50&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20I'm%/u679c&fontAlign=50&fontAlignY=35" />
 </p>
-
+  <img src="https://img.shields.io/badge//u679c-C8EB55"/>
 ## About me
 - 网络工程 / 后端 / 前端 / Python
 - 正在做：个人项目、开源工具、学习笔记
@@ -21,8 +21,9 @@
 ## Featured Projects
 <!-- 项目卡片：把 repo= 后面的仓库名换成你的 -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=u679c&repo=v-pet" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=u679c&repo=v-pet" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=u679c&repo=feiyi_game" />
 </p>
 
 ## ⚡ Recent Activity
@@ -30,10 +31,10 @@
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=u679c&show_icons=true" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u679c&layout=compact" />
 </p>
 
 ## Contact
