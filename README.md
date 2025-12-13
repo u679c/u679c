@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20I'm%20\u679c&fontAlign=50&fontAlignY=35" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20I'm%20\u679c&fontAlign=50&fontAlignY=35&color=C8EB55" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/\u679c-C8EB55"/>
