@@ -12,7 +12,13 @@
 - 正在做：个人项目、开源工具、学习笔记、工作！！
 - 目标：持续输出项目、持续迭代技术
  <br/>
-点击>d[![About](https://img.shields.io/badge/About-u679c-black)](http://47.120.42.234:8000/)<<查看
+<span>>>点击</span>
+ <a href="http://47.120.42.234:8000/" target="_blank" >
+   <img src="https://img.shields.io/badge/About-u679c-black"/>
+   
+ </a>
+ <span>查看<<</span>
+   
 ## 技术、工具
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
