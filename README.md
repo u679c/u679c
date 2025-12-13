@@ -11,7 +11,8 @@
 - 网络工程 / 后端 / 前端 / Python
 - 正在做：个人项目、开源工具、学习笔记、工作！！
 - 目标：持续输出项目、持续迭代技术
-[![About](https://img.shields.io/badge/About-u679c-black)](http://47.120.42.234:8000/)
+ <br/>
+点击>d[![About](https://img.shields.io/badge/About-u679c-black)](http://47.120.42.234:8000/)<<查看
 ## 技术、工具
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
