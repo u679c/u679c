@@ -1,8 +1,12 @@
 <!-- 顶部横幅（可选：换成你自己的图） -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20I'm%20/u679c&fontAlign=50&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi,%20I'm%20\u679c&fontAlign=50&fontAlignY=35" />
 </p>
+<p>
   <img src="https://img.shields.io/badge//u679c-C8EB55"/>
+  你可以尝试：console.log("\u679C") 来查看其中的奥妙
+</p>  
+  
 ## About me
 - 网络工程 / 后端 / 前端 / Python
 - 正在做：个人项目、开源工具、学习笔记、工作！！
