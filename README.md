@@ -32,7 +32,8 @@
 - 正在做：个人项目、开源工具、学习笔记、工作！！
 - 目标：持续输出项目、持续迭代技术
  <br/>
- 
+ Fix the bugsssss? No! this is the start of a new mini-saga of discovery~
+ <br/>
  <span>>></span>
  <a href="http://47.120.42.234:8000/" target="_blank" >
    <img src="https://img.shields.io/badge/About-u679c-black"/>
