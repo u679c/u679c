@@ -34,12 +34,11 @@
  <br/>
  Fix the bugsssss? No! this is the start of a new mini-saga of discovery~
  <br/>
- <span>>></span>
- <a href="http://47.120.42.234:8000/" target="_blank" >
-   <img src="https://img.shields.io/badge/About-u679c-black"/>
+ <br/>
+ 我的个人网站没有啦😭 服务器太贵了，只能白嫖每个厂商的新人福利嘿嘿
+ <br/>
+ <img src="https://img.shields.io/badge/About-u679c-black"/>
    
- </a>
- <span><<</span>
    
 ## 技术、工具
 <p>
