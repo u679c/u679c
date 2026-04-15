@@ -48,17 +48,18 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vim-019733?logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-019733?logo=react&logoColor=white"/>
 </p>
-
+<!--
 ## 特色项目
-<p>
+ <p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=u679c&repo=CNTS" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=u679c&repo=v-pet" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=u679c&repo=feiyi_game" />
-</p>
+</p> 
 
 ## GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u679c&layout=compact" />
 </p>
+-->
