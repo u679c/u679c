@@ -37,7 +37,9 @@
  Fix the bugsssss? No! this is the start of a new mini-saga of discovery~
  <br/>
  <br/>
- 我的个人网站正在开发中... 希望能有一个与众不同的个人网页！
+ 
+  [个人简介](http://47.109.137.27:8800/)
+  
  <br/>
  <img src="https://img.shields.io/badge/About-u679c-black"/>
    
